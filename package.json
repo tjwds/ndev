@@ -1,7 +1,7 @@
 {
   "name": "ndev",
   "version": "0.0.1",
-  "description": "Quickly enable development of your node_modules",
+  "description": "Quickly enable development of your JavaScript project's dependencies",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
