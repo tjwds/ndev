@@ -1,0 +1,14 @@
+{
+  "name": "ndev",
+  "version": "0.0.1",
+  "description": "Quickly enable development of your node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Woods <code@joewoods.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
