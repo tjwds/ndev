@@ -1,5 +1,5 @@
 {
-  "name": "ndev",
+  "name": "nodedev",
   "version": "0.0.1",
   "description": "Quickly enable development of your JavaScript project's dependencies",
   "main": "index.js",
